@@ -13,7 +13,7 @@ CFonts.say('Oscarbotz-MD\n by.Jarot', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`SUBSCRIBE CHANNEL Rismabotz_OFFC`, {                                            
+CFonts.say(`https://mez.ink/botwhatsapp`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
